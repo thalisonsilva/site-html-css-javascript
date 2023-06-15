@@ -1,1 +1,3 @@
-<h2 text-align: center> DAYANA VLASACK</h2>
+<h2 align="center"> DAYANA VLASACK</h2>
+
+<hr>
