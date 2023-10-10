@@ -15,4 +15,3 @@
 
 <p>Criação de Site para Studio de Estética da Studio Dayana Vlasack!</p>
 
-email:contato@thalisonsilva.com.br
